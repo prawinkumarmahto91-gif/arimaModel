@@ -71,7 +71,7 @@ Downloadable forecast data (CSV)
 
 Live App
 
-👉 https://arimamodel-eeuqnlkzyv6zjk9j45aeji.streamlit.app/
+👉 https://weather-forecast-7bcbjdhnspm9kmsg63cptc.streamlit.app/
 
 Model Evaluation
 
